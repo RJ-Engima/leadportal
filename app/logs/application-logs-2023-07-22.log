@@ -1,0 +1,177 @@
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:04:5 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:04:6 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:04:6 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:05:9 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:05:10 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:05:10 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:05:28 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:05:28 PM 
+error: Payload validation Error: "insight" length must be less than or equal to 2 characters long || timestamp: 22-07-2023 12:05:28 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:05:50 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:05:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:05:51 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:13:51 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:13:51 PM 
+info: Payload validation successfull || timestamp: 22-07-2023 12:13:51 PM 
+info: GFF Data inserted to DB || timestamp: 22-07-2023 12:13:51 PM 
+info: Email sent successfully to Ping || timestamp: 22-07-2023 12:13:52 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:15:6 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:15:7 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:15:7 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:15:27 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:15:27 PM 
+info: Payload validation successfull || timestamp: 22-07-2023 12:15:27 PM 
+info: GFF Data inserted to DB || timestamp: 22-07-2023 12:15:27 PM 
+info: Email sent successfully to Ping || timestamp: 22-07-2023 12:15:28 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:16:12 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:16:12 PM 
+error: Payload validation Error: "insight" length must be less than or equal to 2 characters long || timestamp: 22-07-2023 12:16:12 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:17:4 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:17:4 PM 
+error: Payload validation Error: "insight" length must be less than or equal to 2 characters long || timestamp: 22-07-2023 12:17:4 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:18:6 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:18:6 PM 
+error: Payload validation Error: "insight" length must be less than or equal to 2 characters long || timestamp: 22-07-2023 12:18:6 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:21:21 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:21:22 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:21:22 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:21:29 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:21:29 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:21:29 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:22:56 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:22:56 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:22:56 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:22:56 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:22:56 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:22:56 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:22:56 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:22:56 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:22:56 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:23:23 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:23:23 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:23:23 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:23:23 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:23:23 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:23:23 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:24:24 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:24:24 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:24:24 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:24:43 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:24:43 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:24:43 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:25:31 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:25:31 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:25:31 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:25:56 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:25:56 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:25:56 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:26:49 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:26:49 PM 
+error: Payload validation Error: Enter valid email || timestamp: 22-07-2023 12:26:49 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:27:27 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:27:27 PM 
+error: Payload validation Error: Enter valid email || timestamp: 22-07-2023 12:27:27 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:27:52 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:27:52 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:27:52 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:28:18 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:28:18 PM 
+error: Payload validation Error: Enter valid email || timestamp: 22-07-2023 12:28:18 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:29:39 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:29:39 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:29:39 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:30:58 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:30:58 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:30:58 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:32:20 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:32:20 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:32:20 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:34:48 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:34:48 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:34:48 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:34:57 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:34:57 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:34:57 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:34:57 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:34:57 PM 
+error: Payload validation Error: Value should be max Three letters || timestamp: 22-07-2023 12:34:57 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:37:37 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:37:38 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:37:38 PM 
+info: Base URL :: localhost:1600 || timestamp: 22-07-2023 12:39:45 PM 
+info: login hit received || timestamp: 22-07-2023 12:39:50 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 12:39:50 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 12:39:50 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 12:40:38 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 12:40:38 PM 
+info: Base URL :: localhost:1600 || timestamp: 22-07-2023 12:40:44 PM 
+info: login hit received || timestamp: 22-07-2023 12:40:46 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 12:40:46 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 12:40:46 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:41:11 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:41:12 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:41:12 PM 
+info: Base URL :: localhost:1600 || timestamp: 22-07-2023 12:41:13 PM 
+info: login hit received || timestamp: 22-07-2023 12:41:16 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 12:41:16 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 12:41:16 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:41:18 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:41:18 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:42:6 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:42:6 PM 
+info: Get filterbyDate for GFF hit Received || timestamp: 22-07-2023 12:42:23 PM 
+info: Data filter Success from Paylater || timestamp: 22-07-2023 12:42:23 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:42:26 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:42:26 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:46:46 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:46:47 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:46:47 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 12:47:1 PM 
+info: Payload validation check || timestamp: 22-07-2023 12:47:1 PM 
+info: Payload validation successfull || timestamp: 22-07-2023 12:47:1 PM 
+info: GFF Data inserted to DB || timestamp: 22-07-2023 12:47:1 PM 
+info: Email sent successfully to Ping || timestamp: 22-07-2023 12:47:2 PM 
+info: Base URL :: localhost:1600 || timestamp: 22-07-2023 12:47:11 PM 
+info: login hit received || timestamp: 22-07-2023 12:47:13 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 12:47:13 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 12:47:13 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:47:15 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:47:15 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:54:36 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:54:36 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:54:47 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:54:47 PM 
+info: Base URL :: localhost:1600 || timestamp: 22-07-2023 12:54:57 PM 
+info: login hit received || timestamp: 22-07-2023 12:54:59 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 12:55:0 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 12:55:0 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:55:15 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:55:15 PM 
+info: MFI data hit Received || timestamp: 22-07-2023 12:55:20 PM 
+info: Data Getting Success from MFI || timestamp: 22-07-2023 12:55:20 PM 
+info: Get Seamless data hit Received || timestamp: 22-07-2023 12:55:21 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 12:55:22 PM 
+info: MFI data hit Received || timestamp: 22-07-2023 12:55:29 PM 
+info: Data Getting Success from MFI || timestamp: 22-07-2023 12:55:29 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:55:30 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:55:30 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 12:55:46 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 12:55:46 PM 
+warn: Server started at with Environment :: dev || timestamp: 22-07-2023 12:59:39 PM 
+info: Example app listening on port 1600! || timestamp: 22-07-2023 12:59:40 PM 
+warn: DEV-Database connection Successfull || timestamp: 22-07-2023 12:59:40 PM 
+info: Base URL :: localhost:1600 || timestamp: 22-07-2023 1:32:32 PM 
+info: login hit received || timestamp: 22-07-2023 1:32:46 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 1:32:48 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 1:32:48 PM 
+info: MFI data hit Received || timestamp: 22-07-2023 1:32:54 PM 
+info: Data Getting Success from MFI || timestamp: 22-07-2023 1:32:54 PM 
+info: GFF data hit Received || timestamp: 22-07-2023 1:33:0 PM 
+info: Data Getting Success from GFF || timestamp: 22-07-2023 1:33:0 PM 
+info: Get Contact hit Received || timestamp: 22-07-2023 1:35:22 PM 
+info: Data Getting Success from Contact || timestamp: 22-07-2023 1:35:22 PM 
+info: GFF Contact Submit API hit reached || timestamp: 22-07-2023 3:24:33 PM 
+info: Payload validation check || timestamp: 22-07-2023 3:24:33 PM 
+info: Payload validation successfull || timestamp: 22-07-2023 3:24:33 PM 
+info: GFF Data inserted to DB || timestamp: 22-07-2023 3:24:33 PM 
+info: Email sent successfully to Ping || timestamp: 22-07-2023 3:24:34 PM 

@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.error {
+    height: 100vh;
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.errorContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.errorContainer .content h3 span {
+    color: #EE3224;
+}
+.errorContainer .content h3 {
+    font-weight: 400;
+    font-size: 36px;
+}
+.errorContainer .content h2 {
+    font-size: 48px;
+}
+.errorContainer .content p {
+    font-size: 24px;
+    color: #00000066;
+}
+.errorContainer .btnsContainer {
+    margin-top: 4rem;
+}
+.errorContainer .btnsContainer button{
+    border-radius: 5px;
+    padding: 10px 5px;
+    min-width: 150px;
+    background: #ffffff;
+    border: 1px solid;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.errorContainer .btnsContainer button a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;
+}
+.errorContainer .btnsContainer button:hover{
+    opacity: 0.7;
+}
+.errorContainer .btnsContainer .color{
+    background: #EE3224;
+    border: 1px solid #EE3224;
+    color: #ffffff;
+}
+.errorContainer .btnsContainer .color a{
+    color: #ffffff;
+}
+.errorContainer .btnsContainer .color.mob{
+    display: none;
+}
+.errorContainer .imgContainer{
+    width: 40%;
+    text-align: right;
+}
+.errorContainer .imgContainer img{
+    width: 92%;
+}
+
+
+@media only screen and (max-width: 1260px){
+    .errorContainer {
+    width: 90%;
+    }
+    .errorContainer .content h3 {
+    font-size: 30px;
+    }
+    .errorContainer .content h2 {
+    font-size: 38px;
+    }
+    .errorContainer .content p {
+    font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 1040px){
+    .errorContainer .content h3 {
+    font-size: 26px;
+    }
+    .errorContainer .content h2 {
+    font-size: 32px;
+    }
+    .errorContainer .content p {
+    font-size: 18px;
+    }
+    .errorContainer .btnsContainer button{
+    font-size: 16px;
+    min-width: 140px;
+    }
+    .errorContainer .imgContainer img{
+    width: 100%;
+    }
+}
+@media only screen and (max-width: 890px){
+    .errorContainer .content h3 {
+    font-size: 22px;
+    }
+    .errorContainer .content h2 {
+    font-size: 28px;
+    }
+    .errorContainer .content p {
+    font-size: 16px;
+    }
+    .errorContainer .btnsContainer {
+    margin-top: 3rem;
+    }
+    .errorContainer .btnsContainer button{
+    min-width: 132px;
+    font-size: 14px;
+    }
+    .errorContainer .imgContainer{
+    width: 50%;
+    }
+    .errorContainer .imgContainer img{
+    width: 100%;
+    }
+}
+@media only screen and (max-width: 760px){
+    .errorContainer {
+    flex-direction: column;
+    }
+    .errorContainer .content {
+    order: 2;
+    text-align: center;
+}
+    .errorContainer .content h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    }
+    .errorContainer .content h2 {
+    font-size: 24px;
+    }
+    .errorContainer .content p {
+    font-size: 14px;
+    padding: 0px 46px;
+    }
+    .errorContainer .imgContainer{
+    order: 1;
+    margin-bottom: 2rem;
+    width: 100%;
+    text-align: center;
+    }
+    .errorContainer .imgContainer img{
+    width: 100%;
+    }
+    .errorContainer .btnsContainer button{
+        display: none;
+    }
+    .errorContainer .btnsContainer .color.mob{
+        display: block !important;
+        margin: auto;
+    }
+    .errorContainer .btnsContainer {
+        margin-top: 3rem;
+    }
+}
+
+/* @media only screen and (max-width: 1200px){
+    .error {
+    }
+    .errorContainer {
+    }
+    .errorContainer .content {}
+    .errorContainer .content h3 span {
+    }
+    .errorContainer .content h3 {
+    }
+    .errorContainer .content h2 {
+    }
+    .errorContainer .content p {
+    }
+    .errorContainer .btnsContainer {
+    }
+    .errorContainer .btnsContainer button{
+    }
+    .errorContainer .btnsContainer .color{
+    }
+    .errorContainer .imgContainer{
+    }
+    .errorContainer .imgContainer img{
+    }
+} */

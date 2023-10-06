@@ -1,0 +1,82 @@
+<div class="tableBack">
+    <div class="container-fluid no-Pad">
+        <div class="overall-div">
+            {{> livquikSide}}
+            <div class="content-div">
+                {{> header}}
+                <div class="content">
+                    <div class="tablePart">
+                        <div class="headSelect">
+                            <div class="exportBtn">
+                                <div  class="dateFil">
+                                    <select class="selectpicker pick" id="showDate" title="Choose Date">
+                                        <option value="today"> Today</option>
+                                        <option value="sevenDay">Last 7 day</option>
+                                        <option value="lstMont">Last Month</option>
+                                        <option value="custome">Custom Date</option>
+                                    </select>
+                                    <div class="DateDiv">
+                                        <div class="myDate">
+                                            <div class="fromDate">
+                                                <label>From</label>
+                                                <input type="date" id="fromDt" />
+                                            </div>
+                                            <div class="toDate">
+                                                <label>To</label>
+                                                <input type="date" id="toDt" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <button class="export" id="filtertblData">Filter</button>
+                                 <button id="reset" class="resetMyVal">Clear Filter</button>
+                            </div>
+                            <div class="expIconDiv">
+                                <button class="export" id="exporttblData"></button>
+                                <div class="headExport">
+                                </div>
+                            </div>
+                        </div>
+                        <div id="tableContainer" class="table-responsive">
+                            <table class="table" id="contactTbl">
+                                <thead>
+                                    <tr>
+                                        <th>S.No</th>
+                                        <th>Date</th>
+                                        <th>Name</th>
+                                        <th>Email</th>
+                                        <th>Contact Number</th>
+                                        <th>Company Name</th>
+                                        <th>Message</th>
+                                        <th>URL</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="table-body" class="lsTry">
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="navFun">
+                            <div class="selectFilter">
+                                <div class="rows_count"></div>
+                                {{!-- <select class="form-control dropSelect" id="maxRows">
+                                    <option value="10">10</option>
+                                </select> --}}
+                            </div>
+                            <div class='pagination-container'>
+                                <nav>
+                                    <ul class="pagination" id="nav_nums">
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="toastCls">
+            <div id="logMsg" class="hide">
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/js/livquik-contact.js"></script>

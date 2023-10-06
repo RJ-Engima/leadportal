@@ -1,0 +1,53 @@
+warn: Server started at with Environment :: dev || timestamp: 09-08-2023 6:46:20 PM 
+info: Example app listening on port 1600! || timestamp: 09-08-2023 6:46:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-08-2023 6:46:29 PM 
+warn: Server started at with Environment :: dev || timestamp: 09-08-2023 6:51:0 PM 
+info: Example app listening on port 1600! || timestamp: 09-08-2023 6:51:1 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-08-2023 6:51:1 PM 
+warn: Server started at with Environment :: dev || timestamp: 09-08-2023 6:51:52 PM 
+info: Example app listening on port 1600! || timestamp: 09-08-2023 6:51:53 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-08-2023 6:51:53 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 09-08-2023 6:51:58 PM 
+info: Payload validation check || timestamp: 09-08-2023 6:51:58 PM 
+error: Payload validation Error: "Mobile number" is a required field || timestamp: 09-08-2023 6:51:58 PM 
+warn: Server started at with Environment :: dev || timestamp: 09-08-2023 6:54:50 PM 
+info: Example app listening on port 1600! || timestamp: 09-08-2023 6:54:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-08-2023 6:54:51 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 09-08-2023 6:54:53 PM 
+info: Payload validation check || timestamp: 09-08-2023 6:54:53 PM 
+error: Payload validation Error: "url" is not allowed || timestamp: 09-08-2023 6:54:53 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 09-08-2023 6:54:57 PM 
+info: Payload validation check || timestamp: 09-08-2023 6:54:57 PM 
+error: Payload validation Error: "url" is not allowed || timestamp: 09-08-2023 6:54:57 PM 
+warn: Server started at with Environment :: dev || timestamp: 09-08-2023 6:55:50 PM 
+info: Example app listening on port 1600! || timestamp: 09-08-2023 6:55:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-08-2023 6:55:51 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 09-08-2023 6:55:57 PM 
+info: Payload validation check || timestamp: 09-08-2023 6:55:57 PM 
+info: Payload validation successfull || timestamp: 09-08-2023 6:55:57 PM 
+info: AWS Marketplace Data inserted to DB || timestamp: 09-08-2023 6:55:57 PM 
+info: Email sent successfully to Ping || timestamp: 09-08-2023 6:55:58 PM 
+info: Base URL :: localhost:1600 || timestamp: 09-08-2023 6:56:33 PM 
+info: login hit received || timestamp: 09-08-2023 6:56:37 PM 
+info: Get Contact hit Received || timestamp: 09-08-2023 6:56:39 PM 
+info: Data Getting Success from Contact || timestamp: 09-08-2023 6:56:39 PM 
+info: AWS Marketplace get data hit Received || timestamp: 09-08-2023 6:56:41 PM 
+info: Data Getting Success from GFF || timestamp: 09-08-2023 6:56:41 PM 
+info: AWS Marketplace get data hit Received || timestamp: 09-08-2023 6:57:30 PM 
+info: Data Getting Success from GFF || timestamp: 09-08-2023 6:57:31 PM 
+info: AWS Marketplace get data hit Received || timestamp: 09-08-2023 6:57:56 PM 
+info: Data Getting Success from GFF || timestamp: 09-08-2023 6:57:56 PM 
+warn: Server started at with Environment :: dev || timestamp: 09-08-2023 6:58:17 PM 
+info: Example app listening on port 1600! || timestamp: 09-08-2023 6:58:18 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-08-2023 6:58:18 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 09-08-2023 6:58:21 PM 
+info: Payload validation check || timestamp: 09-08-2023 6:58:21 PM 
+info: Payload validation successfull || timestamp: 09-08-2023 6:58:21 PM 
+info: AWS Marketplace Data inserted to DB || timestamp: 09-08-2023 6:58:21 PM 
+info: Email sent successfully to Ping || timestamp: 09-08-2023 6:58:23 PM 
+info: Base URL :: localhost:1600 || timestamp: 09-08-2023 6:58:46 PM 
+info: login hit received || timestamp: 09-08-2023 6:58:48 PM 
+info: Get Contact hit Received || timestamp: 09-08-2023 6:58:48 PM 
+info: Data Getting Success from Contact || timestamp: 09-08-2023 6:58:48 PM 
+info: AWS Marketplace get data hit Received || timestamp: 09-08-2023 6:58:50 PM 
+info: Data Getting Success from GFF || timestamp: 09-08-2023 6:58:50 PM 

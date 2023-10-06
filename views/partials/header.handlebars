@@ -1,0 +1,75 @@
+<div class="content-head">
+  <div class="profileDiv">
+    <div class="profihover">
+      <span class="profileImage"><img src="./images/user.png" /></span>
+      <button class="profile"><span id="profileName">{{userName}}</span><img
+          src="/images/menuDown.svg"
+          class="whiteDown"
+        /></button>
+      <div class="profileDrop">
+        <ul>
+          <li><a
+              href="#"
+              class="changePass"
+              data-target="#exampleModalCenter"
+              data-toggle="modal"
+            ><i class="fas fa-lock"></i>Change Password</a></li>
+          <li><a href="/logout" class="lout"><i
+                class="fas fa-sign-out-alt"
+              ></i>Logout</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div>
+  </div>
+</div>
+<div class="toastCls">
+  <div id="logMsg" class="hide">
+  </div>
+</div>
+<!--Change Modal -->
+<div
+  class="modal fade passChangemod"
+  id="exampleModalCenter"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="exampleModalCenterTitle"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Change Password</h5>
+        <button
+          type="button"
+          data-dismiss="modal"
+          aria-label="Close"
+          class="clsBtn"
+        >Close</button>
+      </div>
+      <div class="modal-body">
+        <form id="changePassword">
+          <div class="passChangeIn">
+            <label>Current Password</label>
+            <input type="password" id="currentPass" class="errIn" />
+            <span class="reqMsg">Required</span>
+          </div>
+          <div class="passChangeIn">
+            <label>New Password</label>
+            <input type="password" id="newChangePass" class="errIn" />
+            <span class="reqMsg">Required</span>
+          </div>
+          <div class="passChangeIn">
+            <label>Confirm Password</label>
+            <input type="password" id="confChangePass" class="errIn" />
+            <span class="reqMsg">Required</span>
+          </div>
+          <div class="passChangeBtn">
+            <button type="submit" class="changeBtn">Change Password</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

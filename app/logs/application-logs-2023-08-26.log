@@ -1,0 +1,90 @@
+warn: Server started at with Environment :: dev || timestamp: 26-08-2023 12:27:12 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-08-2023 12:27:19 PM 
+warn: Server started at with Environment :: dev || timestamp: 26-08-2023 12:37:17 PM 
+info: Example app listening on port 1600! || timestamp: 26-08-2023 12:37:18 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-08-2023 12:37:18 PM 
+warn: Server started at with Environment :: dev || timestamp: 26-08-2023 12:39:12 PM 
+info: Example app listening on port 1600! || timestamp: 26-08-2023 12:39:13 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-08-2023 12:39:13 PM 
+info: Unauthorized request || timestamp: 26-08-2023 12:41:35 PM 
+info: Unauthorized request || timestamp: 26-08-2023 1:32:25 PM 
+info: Unauthorized request || timestamp: 26-08-2023 1:34:21 PM 
+info: Unauthorized request || timestamp: 26-08-2023 1:34:33 PM 
+warn: Server started at with Environment :: dev || timestamp: 26-08-2023 1:35:56 PM 
+info: Example app listening on port 1600! || timestamp: 26-08-2023 1:35:58 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-08-2023 1:35:58 PM 
+info: GFF Contact Submit API hit reached || timestamp: 26-08-2023 1:36:57 PM 
+info: Payload validation check || timestamp: 26-08-2023 1:36:57 PM 
+info: Payload validation successfull || timestamp: 26-08-2023 1:36:57 PM 
+info: JTF Data inserted to DB || timestamp: 26-08-2023 1:36:57 PM 
+info: Email sent successfully to Ping || timestamp: 26-08-2023 1:36:59 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-08-2023 1:36:59 PM 
+info: Base URL :: localhost:1600 || timestamp: 26-08-2023 1:38:26 PM 
+info: login hit received || timestamp: 26-08-2023 1:38:30 PM 
+info: Get Contact hit Received || timestamp: 26-08-2023 1:38:30 PM 
+info: Data Getting Success from Contact || timestamp: 26-08-2023 1:38:30 PM 
+info: GFF data hit Received || timestamp: 26-08-2023 1:38:34 PM 
+info: Data Getting Success from GFF || timestamp: 26-08-2023 1:38:34 PM 
+info: GFF data hit Received || timestamp: 26-08-2023 1:40:29 PM 
+info: Data Getting Success from GFF || timestamp: 26-08-2023 1:40:29 PM 
+info: GFF data hit Received || timestamp: 26-08-2023 1:41:0 PM 
+info: Data Getting Success from GFF || timestamp: 26-08-2023 1:41:0 PM 
+warn: Server started at with Environment :: dev || timestamp: 26-08-2023 1:41:58 PM 
+info: Example app listening on port 1600! || timestamp: 26-08-2023 1:41:59 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-08-2023 1:42:0 PM 
+info: Base URL :: localhost:1600 || timestamp: 26-08-2023 1:42:1 PM 
+info: login hit received || timestamp: 26-08-2023 1:42:3 PM 
+info: Get Contact hit Received || timestamp: 26-08-2023 1:42:3 PM 
+info: Data Getting Success from Contact || timestamp: 26-08-2023 1:42:3 PM 
+info: GFF data hit Received || timestamp: 26-08-2023 1:42:6 PM 
+info: Data Getting Success from GFF || timestamp: 26-08-2023 1:42:6 PM 
+info: GFF data hit Received || timestamp: 26-08-2023 1:43:3 PM 
+info: Data Getting Success from GFF || timestamp: 26-08-2023 1:43:3 PM 
+info: GFF Contact Submit API hit reached || timestamp: 26-08-2023 1:45:37 PM 
+info: Payload validation check || timestamp: 26-08-2023 1:45:37 PM 
+info: Payload validation successfull || timestamp: 26-08-2023 1:45:37 PM 
+info: JTF Data inserted to DB || timestamp: 26-08-2023 1:45:37 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-08-2023 1:45:38 PM 
+info: Email sent successfully to Ping || timestamp: 26-08-2023 1:45:38 PM 
+warn: Server started at with Environment :: dev || timestamp: 26-08-2023 1:48:24 PM 
+info: Example app listening on port 1600! || timestamp: 26-08-2023 1:48:25 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-08-2023 1:48:25 PM 
+info: Base URL :: localhost:1600 || timestamp: 26-08-2023 1:48:31 PM 
+info: login hit received || timestamp: 26-08-2023 1:48:32 PM 
+info: Get Contact hit Received || timestamp: 26-08-2023 1:48:33 PM 
+info: Data Getting Success from Contact || timestamp: 26-08-2023 1:48:33 PM 
+info: GFF data hit Received || timestamp: 26-08-2023 1:48:35 PM 
+info: Data Getting Success from GFF || timestamp: 26-08-2023 1:48:35 PM 
+warn: Server started at with Environment :: dev || timestamp: 26-08-2023 1:49:34 PM 
+info: Example app listening on port 1600! || timestamp: 26-08-2023 1:49:35 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-08-2023 1:49:35 PM 
+info: GFF Contact Submit API hit reached || timestamp: 26-08-2023 1:50:34 PM 
+info: Payload validation check || timestamp: 26-08-2023 1:50:34 PM 
+info: Payload validation successfull || timestamp: 26-08-2023 1:50:34 PM 
+info: JTF Data inserted to DB || timestamp: 26-08-2023 1:50:34 PM 
+info: Email sent successfully to Ping || timestamp: 26-08-2023 1:50:35 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-08-2023 1:50:35 PM 
+info: GFF Contact Submit API hit reached || timestamp: 26-08-2023 1:52:9 PM 
+info: Payload validation check || timestamp: 26-08-2023 1:52:9 PM 
+info: Payload validation successfull || timestamp: 26-08-2023 1:52:9 PM 
+info: JTF Data inserted to DB || timestamp: 26-08-2023 1:52:9 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-08-2023 1:52:10 PM 
+info: Email sent successfully to Ping || timestamp: 26-08-2023 1:52:10 PM 
+info: GFF Contact Submit API hit reached || timestamp: 26-08-2023 1:53:16 PM 
+info: Payload validation check || timestamp: 26-08-2023 1:53:16 PM 
+info: Payload validation successfull || timestamp: 26-08-2023 1:53:16 PM 
+info: JTF Data inserted to DB || timestamp: 26-08-2023 1:53:16 PM 
+info: Email sent successfully to Ping || timestamp: 26-08-2023 1:53:17 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-08-2023 1:53:17 PM 
+info: GFF Contact Submit API hit reached || timestamp: 26-08-2023 1:57:6 PM 
+info: Payload validation check || timestamp: 26-08-2023 1:57:6 PM 
+info: Payload validation successfull || timestamp: 26-08-2023 1:57:6 PM 
+info: JTF Data inserted to DB || timestamp: 26-08-2023 1:57:6 PM 
+info: Email sent successfully to Ping || timestamp: 26-08-2023 1:57:7 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-08-2023 1:57:7 PM 
+info: GFF Contact Submit API hit reached || timestamp: 26-08-2023 1:59:14 PM 
+info: Payload validation check || timestamp: 26-08-2023 1:59:14 PM 
+info: Payload validation successfull || timestamp: 26-08-2023 1:59:14 PM 
+info: JTF Data inserted to DB || timestamp: 26-08-2023 1:59:14 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-08-2023 1:59:15 PM 
+info: Email sent successfully to Ping || timestamp: 26-08-2023 1:59:15 PM 

@@ -1,0 +1,16 @@
+warn: Server started at with Environment :: dev || timestamp: 04-09-2023 3:43:39 PM 
+info: Example app listening on port 1600! || timestamp: 04-09-2023 3:43:53 PM 
+warn: DEV-Database connection Successfull || timestamp: 04-09-2023 3:43:53 PM 
+info: Base URL :: localhost:1600 || timestamp: 04-09-2023 3:43:57 PM 
+info: login hit received || timestamp: 04-09-2023 3:43:59 PM 
+error: Error : Error: connect ECONNREFUSED 52.66.149.103:9966 || timestamp: 04-09-2023 3:44:0 PM 
+warn: Server started at with Environment :: dev || timestamp: 04-09-2023 3:51:31 PM 
+info: Example app listening on port 1600! || timestamp: 04-09-2023 3:51:38 PM 
+warn: DEV-Database connection Successfull || timestamp: 04-09-2023 3:51:38 PM 
+info: login hit received || timestamp: 04-09-2023 3:51:42 PM 
+error: Error : Error: connect ECONNREFUSED ::1:9966 || timestamp: 04-09-2023 3:51:42 PM 
+info: Base URL :: localhost:1600 || timestamp: 04-09-2023 4:03:43 PM 
+info: login hit received || timestamp: 04-09-2023 4:03:45 PM 
+error: Error : Error: connect ECONNREFUSED ::1:9966 || timestamp: 04-09-2023 4:03:45 PM 
+info: login hit received || timestamp: 04-09-2023 4:08:9 PM 
+error: Error : Error: connect ECONNREFUSED ::1:9966 || timestamp: 04-09-2023 4:08:9 PM 

@@ -1,0 +1,26 @@
+warn: Server started at with Environment :: dev || timestamp: 21-07-2023 2:56:28 PM 
+info: Example app listening on port 1600! || timestamp: 21-07-2023 2:56:36 PM 
+warn: DEV-Database connection Successfull || timestamp: 21-07-2023 2:56:36 PM 
+info: MFI Contact Submit API hit reached || timestamp: 21-07-2023 3:01:44 PM 
+info: Payload validation check || timestamp: 21-07-2023 3:01:45 PM 
+info: Payload validation successfull || timestamp: 21-07-2023 3:01:45 PM 
+info: Paylater Data inserted to DB || timestamp: 21-07-2023 3:01:45 PM 
+info: Email sent successfully to Ping || timestamp: 21-07-2023 3:01:46 PM 
+warn: Server started at with Environment :: dev || timestamp: 21-07-2023 3:05:21 PM 
+info: Example app listening on port 1600! || timestamp: 21-07-2023 3:05:22 PM 
+warn: DEV-Database connection Successfull || timestamp: 21-07-2023 3:05:22 PM 
+info: MFI Contact Submit API hit reached || timestamp: 21-07-2023 3:06:2 PM 
+info: Payload validation check || timestamp: 21-07-2023 3:06:2 PM 
+info: Payload validation successfull || timestamp: 21-07-2023 3:06:2 PM 
+info: Paylater Data inserted to DB || timestamp: 21-07-2023 3:06:2 PM 
+info: Email sent successfully to Ping || timestamp: 21-07-2023 3:06:4 PM 
+info: Email sent successfully to Ping || timestamp: 21-07-2023 3:06:6 PM 
+warn: Server started at with Environment :: dev || timestamp: 21-07-2023 3:08:6 PM 
+info: Example app listening on port 1600! || timestamp: 21-07-2023 3:08:7 PM 
+warn: DEV-Database connection Successfull || timestamp: 21-07-2023 3:08:7 PM 
+info: MFI Contact Submit API hit reached || timestamp: 21-07-2023 3:08:26 PM 
+info: Payload validation check || timestamp: 21-07-2023 3:08:26 PM 
+info: Payload validation successfull || timestamp: 21-07-2023 3:08:26 PM 
+info: Paylater Data inserted to DB || timestamp: 21-07-2023 3:08:26 PM 
+info: Email sent successfully to Ping || timestamp: 21-07-2023 3:08:28 PM 
+info: Email sent successfully to Contacted persona || timestamp: 21-07-2023 3:08:29 PM 

@@ -1,0 +1,31 @@
+warn: Server started at with Environment :: dev || timestamp: 19-08-2023 1:33:36 PM 
+info: Example app listening on port 1600! || timestamp: 19-08-2023 1:33:46 PM 
+warn: DEV-Database connection Successfull || timestamp: 19-08-2023 1:33:46 PM 
+warn: Server started at with Environment :: dev || timestamp: 19-08-2023 1:34:4 PM 
+info: Example app listening on port 1600! || timestamp: 19-08-2023 1:34:5 PM 
+warn: DEV-Database connection Successfull || timestamp: 19-08-2023 1:34:5 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 19-08-2023 1:35:9 PM 
+info: Payload validation check || timestamp: 19-08-2023 1:35:9 PM 
+error: Payload validation Error: Enter company name || timestamp: 19-08-2023 1:35:9 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 19-08-2023 1:35:52 PM 
+info: Payload validation check || timestamp: 19-08-2023 1:35:52 PM 
+error: Payload validation Error: Enter company name || timestamp: 19-08-2023 1:35:52 PM 
+warn: Server started at with Environment :: dev || timestamp: 19-08-2023 2:09:41 PM 
+info: Example app listening on port 1600! || timestamp: 19-08-2023 2:09:42 PM 
+warn: DEV-Database connection Successfull || timestamp: 19-08-2023 2:09:42 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 19-08-2023 2:09:46 PM 
+info: Payload validation check || timestamp: 19-08-2023 2:09:46 PM 
+info: Payload validation successfull || timestamp: 19-08-2023 2:09:46 PM 
+info: AWS Marketplace Data inserted to DB || timestamp: 19-08-2023 2:09:46 PM 
+info: Email sent successfully to Ping || timestamp: 19-08-2023 2:09:47 PM 
+info: AWS Marketplace Contact Submit API hit reached || timestamp: 19-08-2023 2:10:2 PM 
+info: Payload validation check || timestamp: 19-08-2023 2:10:2 PM 
+info: Payload validation successfull || timestamp: 19-08-2023 2:10:2 PM 
+info: AWS Marketplace Data inserted to DB || timestamp: 19-08-2023 2:10:2 PM 
+info: Email sent successfully to Ping || timestamp: 19-08-2023 2:10:3 PM 
+info: Footer Contact Submit API hit reached || timestamp: 19-08-2023 2:14:11 PM 
+info: Payload validation check || timestamp: 19-08-2023 2:14:11 PM 
+info: Payload validation successfull || timestamp: 19-08-2023 2:14:11 PM 
+info: data inserted to DB || timestamp: 19-08-2023 2:14:11 PM 
+info: Email sent successfully to Ping || timestamp: 19-08-2023 2:14:12 PM 
+info: Email sent successfully to Contacted Person || timestamp: 19-08-2023 2:14:13 PM 

@@ -1,0 +1,336 @@
+info: Whitepaper request Submit API hit reached || timestamp: 10-06-2023 12:13:55 PM 
+info: Payload validation check || timestamp: 10-06-2023 12:13:55 PM 
+info: Payload validation successfull || timestamp: 10-06-2023 12:13:55 PM 
+info: Paylater Data inserted to DB || timestamp: 10-06-2023 12:13:55 PM 
+info: Email sent successfully to Ping || timestamp: 10-06-2023 12:13:56 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 10-06-2023 12:21:38 PM 
+info: Payload validation check || timestamp: 10-06-2023 12:21:38 PM 
+info: Payload validation successfull || timestamp: 10-06-2023 12:21:38 PM 
+info: Paylater Data inserted to DB || timestamp: 10-06-2023 12:21:38 PM 
+info: Email sent successfully to Ping || timestamp: 10-06-2023 12:21:40 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 10-06-2023 1:03:20 PM 
+info: Payload validation check || timestamp: 10-06-2023 1:03:20 PM 
+info: Payload validation successfull || timestamp: 10-06-2023 1:03:20 PM 
+info: Paylater Data inserted to DB || timestamp: 10-06-2023 1:03:20 PM 
+info: Email sent successfully to Ping || timestamp: 10-06-2023 1:03:21 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 1:03:46 PM 
+info: login hit received || timestamp: 10-06-2023 1:03:57 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 1:03:57 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 1:04:22 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 1:04:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 1:04:29 PM 
+info: login hit received || timestamp: 10-06-2023 1:04:32 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 1:04:32 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 1:04:33 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 1:04:35 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 1:04:35 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 1:08:3 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 1:08:3 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 1:08:6 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 1:08:6 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 1:10:39 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 1:10:39 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 1:11:4 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 1:11:4 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 1:11:29 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 1:11:29 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 1:15:7 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 1:15:8 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 1:15:8 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 1:15:15 PM 
+info: login hit received || timestamp: 10-06-2023 1:15:24 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 1:15:24 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 1:15:24 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 1:15:27 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 1:15:27 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 10-06-2023 2:02:42 PM 
+info: Payload validation check || timestamp: 10-06-2023 2:02:42 PM 
+info: Payload validation successfull || timestamp: 10-06-2023 2:02:42 PM 
+info: Paylater Data inserted to DB || timestamp: 10-06-2023 2:02:42 PM 
+info: Email sent successfully to Ping || timestamp: 10-06-2023 2:02:44 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 2:04:56 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 2:04:57 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 2:04:57 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 10-06-2023 2:05:30 PM 
+info: Payload validation check || timestamp: 10-06-2023 2:05:30 PM 
+info: Payload validation successfull || timestamp: 10-06-2023 2:05:30 PM 
+info: Paylater Data inserted to DB || timestamp: 10-06-2023 2:05:30 PM 
+info: Email sent successfully to Ping || timestamp: 10-06-2023 2:05:31 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 4:24:43 PM 
+info: login hit received || timestamp: 10-06-2023 4:24:54 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 4:24:54 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 4:24:54 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 6:20:54 PM 
+info: login hit received || timestamp: 10-06-2023 6:21:3 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 6:21:4 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 6:21:4 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:21:10 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:21:10 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 6:21:22 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:21:22 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:21:25 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:21:25 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 6:21:29 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:21:29 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 6:21:43 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:21:43 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 6:21:46 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:21:47 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 6:21:58 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:21:58 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 6:22:2 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:22:2 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 6:22:7 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:22:7 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:22:13 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:22:13 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 6:29:18 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 6:29:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 6:29:19 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 6:29:33 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 6:29:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 6:29:33 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 6:29:36 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 6:29:36 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 6:35:3 PM 
+info: login hit received || timestamp: 10-06-2023 6:35:11 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 6:35:11 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 6:35:11 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 6:35:47 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 6:35:47 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:36:0 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:36:0 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 6:48:26 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 6:48:26 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:49:42 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:49:42 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:52:42 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:52:42 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:53:52 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:53:52 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 6:57:58 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 6:57:58 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:11:26 PM 
+info: login hit received || timestamp: 10-06-2023 7:11:35 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:11:35 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:11:35 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:11:52 PM 
+info: Data Getting Success from Subscription || timestamp: 10-06-2023 7:11:52 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:12:6 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:12:6 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:12:32 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:12:32 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:13:52 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:13:52 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:14:5 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:14:5 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:14:10 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:14:10 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:19:16 PM 
+info: Data Getting Success from Subscription || timestamp: 10-06-2023 7:19:16 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:25:21 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:25:21 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:26:12 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:26:12 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:26:45 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:26:45 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:27:26 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:27:26 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:28:23 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:28:23 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:29:31 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:29:31 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:29:33 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:29:33 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:30:16 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:30:16 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:30:34 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:30:34 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:31:43 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:31:44 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:31:44 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:31:45 PM 
+info: login hit received || timestamp: 10-06-2023 7:31:53 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:31:53 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:31:53 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:31:58 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:31:58 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:32:3 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:32:3 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:34:10 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:34:11 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:34:11 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:34:14 PM 
+info: login hit received || timestamp: 10-06-2023 7:34:21 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:34:22 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:34:22 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:34:25 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:34:25 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:34:28 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:34:28 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:37:29 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:37:29 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:38:54 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:38:54 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:39:1 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:39:1 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:39:13 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:39:13 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:39:16 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:39:16 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:39:51 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:39:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:39:52 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:39:53 PM 
+info: login hit received || timestamp: 10-06-2023 7:40:1 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:40:1 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:40:1 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:40:4 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:40:4 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:40:6 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:40:6 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:40:56 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:40:57 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:40:57 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:40:59 PM 
+info: login hit received || timestamp: 10-06-2023 7:41:6 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:41:6 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:41:6 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:41:9 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:41:9 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:41:12 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:41:12 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:48:34 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:48:41 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:48:41 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:48:57 PM 
+info: login hit received || timestamp: 10-06-2023 7:49:4 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:49:5 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:49:5 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:49:12 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:49:12 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:49:14 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:49:14 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:51:41 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:51:41 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:51:59 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:51:59 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:52:2 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:52:2 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:52:21 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:52:21 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:52:24 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:52:24 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:53:13 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:53:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:53:14 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:53:16 PM 
+info: login hit received || timestamp: 10-06-2023 7:53:26 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:53:27 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:53:27 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:53:31 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:53:31 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:53:34 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:53:34 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:54:1 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:54:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:54:2 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:54:8 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:54:9 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:54:9 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:54:11 PM 
+info: login hit received || timestamp: 10-06-2023 7:54:38 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:54:39 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:54:39 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:54:41 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:54:41 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:54:44 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:54:56 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:54:56 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:55:56 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:55:56 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:55:59 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:56:37 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:56:37 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:56:40 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:56:54 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:56:54 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:56:57 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:57:40 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:57:40 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:57:43 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:58:19 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:58:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:58:19 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:58:21 PM 
+info: login hit received || timestamp: 10-06-2023 7:58:30 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:58:30 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:58:30 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:58:35 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:58:35 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:58:37 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 7:58:50 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 7:58:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 7:58:51 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 7:58:55 PM 
+info: login hit received || timestamp: 10-06-2023 7:59:2 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 7:59:2 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 7:59:2 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 7:59:7 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 7:59:7 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:59:9 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:59:9 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 7:59:15 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 7:59:15 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 8:01:8 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 8:01:8 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 8:01:12 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:01:12 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:02:5 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:02:5 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 8:05:6 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 8:05:6 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 8:05:6 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 8:05:9 PM 
+info: login hit received || timestamp: 10-06-2023 8:05:17 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 8:05:17 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 8:05:17 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 8:05:19 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 8:05:19 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:05:24 PM 
+error: Something went wrong in getting Whitepapers filter data || timestamp: 10-06-2023 8:05:24 PM 
+error: FieldPath field names may not start with '$'. Consider using $getField or $setField. || timestamp: 10-06-2023 8:05:24 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 8:05:58 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 8:05:59 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 8:05:59 PM 
+warn: Server started at with Environment :: dev || timestamp: 10-06-2023 8:07:9 PM 
+info: Example app listening on port 1600! || timestamp: 10-06-2023 8:07:10 PM 
+warn: DEV-Database connection Successfull || timestamp: 10-06-2023 8:07:10 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:07:12 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:07:12 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:07:28 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:07:28 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:07:45 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:07:45 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:07:54 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:07:54 PM 
+info: Base URL :: localhost:1600 || timestamp: 10-06-2023 8:08:26 PM 
+info: login hit received || timestamp: 10-06-2023 8:08:34 PM 
+info: Get Contact hit Received || timestamp: 10-06-2023 8:08:35 PM 
+info: Data Getting Success from Contact || timestamp: 10-06-2023 8:08:35 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 8:08:37 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 8:08:37 PM 
+info: Get filterbyDate for Whitepapers data hit Received || timestamp: 10-06-2023 8:08:40 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:08:40 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:08:45 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:08:45 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:08:49 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:08:49 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:08:53 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:08:53 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:09:6 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:09:6 PM 
+info: Get filterbyCategory for Whitepapers data hit Received || timestamp: 10-06-2023 8:09:9 PM 
+info: Data filter Success from Whitepapers || timestamp: 10-06-2023 8:09:9 PM 
+info: Get Whitepapers data hit Received || timestamp: 10-06-2023 8:09:17 PM 
+info: Data Getting Success from Paylater || timestamp: 10-06-2023 8:09:17 PM 

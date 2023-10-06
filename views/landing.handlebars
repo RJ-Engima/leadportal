@@ -1,0 +1,66 @@
+<div class="tableBack">
+    <div class="container-fluid no-Pad">
+        <div class="overall-div">
+            {{> left}}
+            <div class="content-div">
+                {{> header}}
+                <div class="content">
+                    <div class="tablePart">
+                        <div class="headSelect">
+                            <div class="exportBtn">
+                                <div class="conDrop">
+                                    <select class="selectpicker pick" id="subsPick" title="choose page">
+                                        <option value="">All</option>
+                                    </select>
+                                </div>
+                                <button class="export disableBtn" id="filtertblData">Filter</button>
+                            </div>
+                            <div class="expIconDiv">
+                                <button class="export" id="exporttblData"></button>
+                                <div class="headExport">
+                                </div>
+                            </div>
+                        </div>
+                        <div id="tableContainer" class="table-responsive">
+                            <table class="table" id="contactTbl">
+                                <thead>
+                                    <tr>
+                                        <th>S.No</th>
+                                        <th>Date</th>
+                                        <th>Name</th>
+                                        <th>Email</th>
+                                        <th>Country</th>
+                                        <th>Company</th>
+                                        <th>Source</th>
+                                        <th>URL</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="table-body-landingpage" class="lsTry">
+                                </tbody>
+                            </table>
+                            <div class="navFun">
+                                <div class="selectFilter">
+                                    <div class="rows_count"></div>
+                                    {{!-- <select class="form-control dropSelect" id="maxRows">
+                                        <option value="10">10</option>
+                                    </select> --}}
+                                </div>
+                                <div class='pagination-container'>
+                                   <nav>
+                                        <ul class="pagination" id="nav_nums">
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="toastCls">
+            <div id="logMsg" class="hide">
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/js/landingpage.js"></script>

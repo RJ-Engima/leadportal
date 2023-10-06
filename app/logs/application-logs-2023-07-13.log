@@ -1,0 +1,54 @@
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:25:28 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:25:38 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:26:53 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 6:26:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:26:54 PM 
+info: Base URL :: localhost:1600 || timestamp: 13-07-2023 6:27:3 PM 
+info: login hit received || timestamp: 13-07-2023 6:27:14 PM 
+info: Get Contact hit Received || timestamp: 13-07-2023 6:27:15 PM 
+info: Data Getting Success from Contact || timestamp: 13-07-2023 6:27:15 PM 
+info: Unauthorized request || timestamp: 13-07-2023 6:27:57 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:29:2 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 6:29:3 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:29:3 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:29:58 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 6:29:59 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:29:59 PM 
+info: Seamless api hit received || timestamp: 13-07-2023 6:30:5 PM 
+info: Data write in csv file successful || timestamp: 13-07-2023 6:30:5 PM 
+info: Seamless API hit reached || timestamp: 13-07-2023 6:30:5 PM 
+info: data inserted to DB || timestamp: 13-07-2023 6:30:5 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:52:47 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 6:52:48 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:52:48 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:53:7 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 6:53:8 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:53:8 PM 
+info: Seamless api hit received || timestamp: 13-07-2023 6:53:36 PM 
+info: data inserted to DB || timestamp: 13-07-2023 6:53:36 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:54:16 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 6:54:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:54:17 PM 
+info: Seamless api hit received || timestamp: 13-07-2023 6:54:39 PM 
+info: data inserted to DB || timestamp: 13-07-2023 6:54:39 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 6:55:8 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 6:55:9 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 6:55:9 PM 
+info: Seamless api hit received || timestamp: 13-07-2023 6:55:25 PM 
+info: data inserted to DB || timestamp: 13-07-2023 6:55:25 PM 
+info: Base URL :: localhost:1600 || timestamp: 13-07-2023 6:57:25 PM 
+info: login hit received || timestamp: 13-07-2023 6:57:32 PM 
+info: Get Contact hit Received || timestamp: 13-07-2023 6:57:32 PM 
+info: Data Getting Success from Contact || timestamp: 13-07-2023 6:57:32 PM 
+info: Get Seamless data hit Received || timestamp: 13-07-2023 6:57:34 PM 
+info: Data Getting Success from Contact || timestamp: 13-07-2023 6:57:34 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 7:08:53 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 7:08:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 7:08:54 PM 
+info: Seamless api hit received || timestamp: 13-07-2023 7:09:16 PM 
+info: data inserted to DB || timestamp: 13-07-2023 7:09:16 PM 
+warn: Server started at with Environment :: dev || timestamp: 13-07-2023 7:11:38 PM 
+info: Example app listening on port 1600! || timestamp: 13-07-2023 7:11:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-07-2023 7:11:39 PM 
+info: Seamless api hit received || timestamp: 13-07-2023 7:11:57 PM 
+info: data inserted to DB || timestamp: 13-07-2023 7:11:57 PM 

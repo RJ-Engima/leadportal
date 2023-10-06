@@ -1,0 +1,2009 @@
+:root {
+  --primary: #cf2127 !important;
+  --secondary: #ffffff;
+  --primary-gradient: linear-gradient(146deg, #cf2127 0%, #551608 74%);
+  --primary-gradient-hover: linear-gradient(146deg, #cf2127 20%, #551608 74%);
+  --primary-hover: red;
+  --common-bg: #e5e5e5;
+}
+
+@font-face {
+  font-family: "Ilisarniq";
+  src: url("../font/Ilisarniq-Regular.otf");
+}
+
+@font-face {
+  font-family: "Ilisar-light";
+  src: url("../font/Ilisarniq-Light.otf");
+}
+
+.hello:focus .whiteDown {
+  transform: rotate(90deg);
+}
+
+.testAct .subMenu {
+  display: block !important;
+}
+
+.rotate {
+  transform: rotate(-90deg);
+}
+
+.logBackImg {
+  background: url("../images/loginImage.svg") no-repeat -60px center;
+  background-size: 68%;
+}
+
+.whiteDown {
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.pad_left {
+  padding-left: 0px !important;
+}
+
+.brdClr {
+  border: 1px solid red !important;
+}
+
+.reqMsg {
+  display: none;
+  color: red;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  color: red;
+  opacity: 0.9;
+  position: relative;
+  padding-left: 20px;
+}
+
+.reqMsg::before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px !important;
+  background: url("../images/errMsg-icon.svg") no-repeat;
+  background-size: cover;
+  left: 5px;
+  top: 3px;
+  bottom: 0px;
+  margin: auto;
+}
+
+.noData {
+  font-size: 20px;
+  font-family: "Ilisarniq";
+  opacity: 0.5;
+  text-align: center;
+  padding-top: 30px;
+}
+
+#cssmenu li ul li a.active {
+  background-color: blue;
+}
+
+.hide {
+  display: flex;
+}
+
+.sideBarIcon {
+  width: 18px;
+  height: 18px;
+  padding-right: 5px;
+}
+
+.leftMenuShow {
+  display: block !important;
+}
+
+.leftMenuHide {
+  display: none;
+}
+
+#logMsg {
+  display: flex;
+  align-items: center;
+  z-index: 1060;
+}
+
+#logMsg h4 {
+  padding-left: 15px;
+  padding-right: 20px;
+  margin-bottom: 5px;
+}
+
+.errMsg {
+  padding-left: 15px;
+  padding-right: 30x;
+}
+
+.err {
+  width: 100%;
+  font-size: 18px;
+  line-height: 20px;
+  margin-bottom: 2px;
+  font-weight: 800px !important;
+  color: #151515;
+  font-family: "Ilisarniq";
+  padding-left: 13px;
+  padding-right: 20px;
+}
+
+.siIcon {
+  font-size: 17px;
+}
+
+.errBlw {
+  width: 100%;
+  font-size: 15px;
+  line-height: 20px;
+  margin-bottom: 5px;
+  font-weight: 600px !important;
+  color: #151515;
+  font-family: "Ilisar-light";
+  padding-left: 15px;
+  padding-right: 20px;
+}
+
+.dangerAlert {
+  position: absolute;
+  padding: 10px;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  top: 10px !important;
+  right: 10px !important;
+  width: auto;
+  color: #151515;
+  background-color: #f2b7b7;
+  border-radius: 10px;
+}
+
+.successAlert {
+  color: #155724;
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+  position: absolute;
+  padding: 10px;
+  border: 1px solid transparent;
+  top: 10px !important;
+  right: 10px !important;
+  width: auto;
+  border-radius: 10px;
+}
+
+.myClose {
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 400px !important;
+}
+
+.toastCls h4 {
+  margin-bottom: 0 !important;
+  font-size: 15px !important;
+}
+
+.toast_content h4 {
+  margin-bottom: 0 !important;
+  font-size: 15px !important;
+  padding-right: 20px !important;
+}
+
+.left {
+  width: 250px;
+  height: 100vh;
+  z-index: 1;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 20px 20px 0px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 10px;
+}
+
+.dash {
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 25px;
+  color: #000000;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+}
+
+.dashImg {
+  width: 34px;
+  height: 34px;
+  margin-right: 10px;
+}
+
+.dashLink {
+  margin-top: 25px;
+  float: left;
+}
+
+#pagination-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  position: relative;
+}
+
+.tablePart {
+  width: 96%;
+  /* float: left; */
+  margin: 5px auto 0px auto;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+.table td,
+.table th {
+  white-space: nowrap;
+}
+
+#pagination-wrapper button {
+  margin: 3px;
+  border: none;
+  color: #000;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.pageNum {
+  position: absolute;
+  left: 0;
+  font-size: 12px;
+  line-height: 22px;
+  font-family: "Ilisarniq";
+}
+
+.content-div {
+  width: calc(100% - 250px);
+  float: left;
+  height: 100vh;
+  margin-left: 250px;
+}
+
+.passChangemod .modal-dialog {
+  max-width: 415px !important;
+}
+
+.passChangemod .modal-content {
+  border-radius: 10px;
+}
+
+.subMenu {
+  display: none;
+  margin: 0px !important;
+  padding: 0px !important;
+  transition: all 0.5s ease-in-out;
+}
+
+.subMenu:first-child {
+  display: block !important;
+}
+
+.subMenu li,
+.subMenu li a {
+  transition: all 0.5s ease-in-out;
+}
+
+.dashLink .subMenu li a {
+  width: 100%;
+  padding-left: 30px;
+}
+
+.passChangemod .modal-header .modal-title {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 16px;
+  color: #0d1634;
+}
+
+.frm-err {
+  position: relative;
+  background: #ffffff;
+  border: 1px solid #ff5a60;
+  border-radius: 10px;
+}
+
+.errMsg {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  padding-left: 20px;
+  color: #ff5a60;
+  position: relative;
+  display: none;
+  padding-top: 3px;
+}
+
+.errMsg::before {
+  content: "";
+  background: url("../images/errMsg-icon.svg");
+  width: 14px;
+  height: 14px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+}
+
+.nightSky {
+  width: 100%;
+  height: 100vh;
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.passChangemod .modal-header {
+  align-items: center;
+  background: #3540520d;
+  border-radius: 10px 10px 0px 0px;
+  padding: 1rem 2.1rem;
+}
+
+.passChangemod .modal-header button {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  color: #0d1634;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none !important;
+}
+
+.passChangeIn {
+  /* float: left; */
+  width: 90%;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+.passChangeIn label {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 13px;
+  color: #62646d;
+  opacity: 0.8;
+}
+
+.passChangeIn input {
+  border: 1px solid rgba(13, 22, 52, 0.1);
+  outline: none;
+  width: 100%;
+  border-radius: 8px;
+  padding: 7px;
+  font-family: "Ilisarniq";
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.passChangeBtn {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: end;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.changeBtn {
+  border: none;
+  outline: none !important;
+  background-color: #354052;
+  color: #fff;
+  border-radius: 4px;
+  padding: 8px;
+  font-family: "Ilisarniq";
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.first,
+.last,
+.num {
+  font-size: 12px;
+  font-family: "Ilisarniq";
+  line-height: 22px;
+  color: #fff;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.first .fa-chevron-left:before {
+  font-size: 10px;
+}
+
+.last .fa-chevron-right::before {
+  font-size: 10px;
+}
+
+.pageActive {
+  background-color: red;
+  border-bottom: 1px solid #354052;
+}
+
+.dashLink {
+  padding-left: 0;
+  width: 100%;
+}
+
+.dashLink li {
+  list-style-type: none;
+}
+
+.dashLink li.active a {
+  background: var(--primary);
+  color: white;
+}
+
+.dashLink li.active a:hover {
+  background: var(--primary);
+}
+
+.dashLink li a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  border-left: 5px solid #fff;
+  color: #000;
+  padding: 15px 10px 15px 20px;
+  font-size: 13px;
+  width: 100%;
+  background: transparent;
+}
+
+.dashLink li a .fas {
+  margin-right: 10px;
+  transition: 0.2s all ease;
+}
+
+.dashLink li a:hover {
+  text-decoration: none;
+}
+
+.leftActive {
+  background: rgba(255, 255, 255, 0.1) !important;
+  text-decoration: none;
+}
+
+.export:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+
+.exportBtn .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+  width: 155px !important;
+}
+
+.conDrop .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+  width: 155px !important;
+  margin-right: 20px;
+}
+
+.dateFil .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+  margin-right: 20px;
+}
+.dateFil{
+  float: left;
+  display: flex;
+}
+.conDrop .bootstrap-select:not(.input-group-btn),
+.bootstrap-select[class*="col-"] {
+  float: left !important;
+}
+
+.dashLink li a:focus {
+  text-decoration: none;
+}
+
+.dashLink li a i.fa {
+  width: 50px;
+  text-align: center;
+  padding-right: 0px;
+  transition: all 1s;
+}
+
+.dashLink .menu-heading {
+  opacity: 0;
+  padding: 10px 5px 10px 10px;
+  color: #b3b300;
+  font-size: smaller;
+  border-bottom: 1px solid #2b3443;
+  transition: all 0.5s;
+}
+
+.footer {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  right: 20px;
+  align-items: center;
+  padding-bottom: 15px;
+}
+
+.footer p {
+  margin-bottom: 0;
+  margin-right: 5px;
+  font-size: 13px;
+  line-height: 22px;
+  font-family: "Ilisarniq";
+}
+
+.loginform,
+.fgtPassword,
+.new-pass {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  vertical-align: middle;
+  height: 100vh;
+}
+
+.fgtOtpSub {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  vertical-align: middle;
+  height: 100vh;
+}
+
+.OtpSubcls {
+  display: none;
+}
+
+.con-pass {
+  margin: 0 !important;
+}
+
+.new-pass button {
+  float: right;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: normal;
+  border: none;
+  border-radius: 7px;
+  background: #1f1f1f;
+  color: #fff;
+  margin-top: 15px;
+  cursor: pointer;
+  outline: none !important;
+  padding: 15px 30px 15px 30px;
+}
+
+.loginform>div,
+.fgtDiv {
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  padding: 55px;
+  width: 430px;
+}
+
+.menuDown {
+  width: 10px;
+  height: 10px;
+  margin-left: 5px;
+}
+
+.powered {
+  position: relative !important;
+}
+
+.loginLogo {
+  position: absolute;
+  top: 23px;
+  left: 26px;
+  right: 10px;
+  font-family: "Ilisarniq";
+  font-size: 13px;
+}
+
+.login-div h2,
+.fgtDiv h2 {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 38px;
+  color: #000000;
+  margin-bottom: 30px;
+  float: left;
+  width: 100%;
+}
+
+.loginInDiv {
+  float: left;
+  width: 100%;
+}
+
+.fgtInDiv {
+  float: left;
+  width: 100%;
+}
+
+.loginInDiv label,
+.fgtInDiv label {
+  width: 100%;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 26px;
+  letter-spacing: 0.005em;
+  color: #222222;
+  margin-bottom: 8px;
+}
+
+.loginInDiv input,
+.fgtInDiv input {
+  width: 100%;
+  border: 1px solid rgba(20, 27, 86, 0.2);
+  border-radius: 7px;
+  padding: 10px;
+  margin-bottom: 25px;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #0d1634;
+  outline: none !important;
+}
+
+.logSub {
+  position: relative;
+}
+
+.logSub::after {
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 20px;
+  background: url("../images/btnArrow.svg") center no-repeat;
+  top: 3px;
+  bottom: 0px;
+  margin: auto;
+  right: 30px;
+}
+
+.OtpBtn {
+  float: right;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: normal;
+  border: none;
+  border-radius: 7px;
+  background: #1f1f1f;
+  color: #fff;
+  cursor: pointer;
+  outline: none !important;
+  padding: 15px 30px 15px 30px;
+}
+
+.forgot {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  float: left;
+}
+
+.forgot>a {
+  text-align: right;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 13px;
+  text-decoration: none !important;
+  color: #222222;
+}
+
+.fgtPassword,
+.new-pass {
+  display: none;
+}
+
+.nightSky h2 {
+  color: #fff;
+  font-size: 40px;
+  font-family: "Ilisarniq";
+  line-height: 50px;
+}
+
+.login-div input:focus {
+  outline: none;
+}
+
+.login-div button {
+  background: #1f1f1f;
+  border: unset;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+  outline: none !important;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+  float: left;
+  margin-top: 20px;
+  padding: 17px 100px 16px 30px;
+}
+
+.tableBack {
+  padding: 0;
+  margin: 0;
+  background-color: #e5e5e5 !important;
+}
+
+.logImage {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loginBack {
+  background: #eef5ff;
+  width: 100%;
+  height: 100vh;
+}
+
+.no-Pad {
+  padding: 0px !important;
+}
+
+.AlCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.sideBar {
+  width: 250px;
+  height: 100vh;
+  background-color: #bf4820;
+  background-image: linear-gradient(146deg, #bf2e20 0%, #551608 74%);
+  box-shadow: 9.50079px 3.80032px 9.50079px rgba(231, 231, 255, 0.15);
+  float: left;
+  position: relative;
+  transition: all 0.3s;
+  width: 15%;
+}
+
+.logo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  background-color: white;
+  margin: 20px auto;
+  border-radius: 19px;
+}
+
+.logo a:hover {
+  text-decoration: none;
+}
+
+.sideBarItems {
+  margin-top: 35px;
+  float: left;
+  width: 100%;
+  padding: 5px;
+}
+
+.sideBarItems ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  float: left;
+}
+
+.sideLink {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 14px;
+  color: #ffffff;
+  text-decoration: none;
+  position: relative;
+  width: 100%;
+  padding: 10px 0px 10px 0px;
+  float: left;
+  border-radius: 50px;
+  padding-left: 40px;
+  margin-bottom: 20px;
+}
+
+.sideLink:hover {
+  text-decoration: none;
+  color: #0a0a0a;
+  background-color: white;
+}
+
+.iconSide::before {
+  content: "";
+  position: absolute;
+  background: url("../images/cart.svg") no-repeat;
+  width: 20px;
+  height: 20px;
+  left: 5px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+  background-position: center;
+  background-size: contain;
+}
+
+.dropArrow {
+  position: relative;
+  float: right;
+}
+
+.dropArrow::after {
+  content: "";
+  position: absolute;
+  background: url("../images/drop-down.svg") no-repeat;
+  width: 16px;
+  height: 16px;
+  right: 30px;
+  top: 7px;
+  bottom: 0px;
+  margin: auto;
+}
+
+.drop li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  float: left;
+  width: 100%;
+  color: #000;
+}
+
+.drop li a:hover {
+  text-decoration: none;
+  color: #0a0a0a;
+  background-color: white;
+}
+
+.drop li a {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffff;
+  text-decoration: none;
+  position: relative;
+  width: 100%;
+  padding: 12px 12px;
+  float: left;
+}
+
+.sideActive {
+  color: black !important;
+  background-color: #fff !important;
+}
+
+.sideLink:hover .iconSide::before {
+  content: "";
+  position: absolute;
+  background: url("../images/blue-cart.svg") no-repeat;
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.sideArrow {
+  float: left;
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.arrow {
+  position: relative;
+  float: left;
+  width: 100%;
+  cursor: pointer;
+  height: 30px;
+}
+
+.arrow::before {
+  content: "";
+  background: url("../images/arrow.svg") no-repeat;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.hideCls {
+  opacity: 0;
+  display: none;
+}
+
+.turnArrow {
+  transform: rotate(180deg);
+}
+
+.sideWidth {
+  width: 70px;
+  transition: all 0.3s;
+}
+
+.content {
+  width: 100%;
+  float: left;
+}
+
+.headSelect {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e7e8eb;
+}
+
+.exportBtn {
+  float: left;
+  display: flex;
+  align-items: center;
+}
+
+#conPick {
+  margin-left: 20px;
+}
+.export{
+  margin-right: 20px !important;
+}
+.resetMyVal{
+  border: none;
+  outline: none !important;
+  background: #fff;
+  /* text-decoration: underline; */
+  border-radius: 4px;
+  font-family: "Ilisar-light";
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: 0.5px;
+  font-size: 11px;
+  line-height: 13px;
+  text-align: center;
+  color: #c01;
+  margin: 0px 0px 0px 0px;
+}
+.export {
+  border: none;
+  outline: none !important;
+  background: #354052;
+  border-radius: 4px;
+  padding: 6px 20px 9px 20px;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 13px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0px 0px 0px 0px;
+}
+
+.expIconDiv {
+  display: flex;
+  align-items: center;
+}
+
+.actBrd {
+  border-left: 5px solid #488dec !important;
+  background: #eef5ff !important;
+  font-weight: 600 !important;
+}
+
+#exporttblData {
+  position: relative;
+  margin-left: 0 !important;
+  background: #fff;
+  cursor: pointer;
+}
+
+#exporttblData::after {
+  content: "";
+  position: absolute;
+  background: url("../images/upload.svg") no-repeat center;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-size: contain;
+}
+
+.headSearch {
+  float: left;
+  border: 1px solid rgb(13, 22, 52, 0.1);
+  border-radius: 8px;
+  position: relative;
+}
+
+.headSearch::before {
+  content: "";
+  position: absolute;
+  background: url("../images/search.svg") no-repeat center;
+  width: 18px;
+  height: 18px;
+  top: 0;
+  bottom: 0;
+  left: 5px;
+  margin: auto;
+  background-size: contain;
+}
+
+.searchIn {
+  border: none;
+  padding: 6px 5px 7px 10px;
+  outline: none;
+  border-radius: 8px;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  color: #0d1634;
+  opacity: 0.6;
+  position: relative;
+  padding-left: 28px;
+}
+
+.searchIn::placeholder {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #0d1634;
+  opacity: 0.5;
+}
+
+.contentTable {
+  margin-top: 20px;
+  width: 100%;
+  padding: 15px;
+}
+
+.table thead tr th {
+  border: none !important;
+}
+
+.exportBtn .btn:not(:disabled):not(.disabled),
+.selectFilter .btn:not(:disabled):not(.disabled) {
+  border: 1px solid #eeeeee;
+  outline: none !important;
+}
+
+.lead {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  color: #fff;
+  margin: 0;
+  position: relative;
+  padding-left: 10px;
+  text-align: center;
+  padding-left: 30px;
+}
+
+.lead::before {
+  content: "";
+  position: absolute;
+  background: url("../images/m2pLogo.svg") no-repeat center;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  left: 0;
+  background-size: cover;
+}
+
+.resLogo {
+  display: none;
+}
+
+div.pager,
+div.pagerFil {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin: 1em 0;
+}
+
+#nav_nums {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin: 1em 0;
+}
+
+#nav_nums a,
+#nav_nums span {
+  display: inline-block;
+  padding: 2px 7px 2px 7px;
+  line-height: 1.8;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid rgba(13, 22, 52, 0.1);
+  color: #000;
+  margin-right: 0.5em;
+  border-radius: 4px;
+  font-family: "Ilisarniq";
+  font-size: 12px;
+}
+
+#nav_nums .page-item.active .page-link {
+  background: #eef5ff;
+  color: #000;
+}
+
+.page-link:focus {
+  box-shadow: none !important;
+}
+
+#nav_nums .active span {
+  background: #eef5ff;
+  color: #000;
+}
+
+div.pager span,
+div.pagerFil span {
+  display: inline-block;
+  padding: 2px 7px 2px 7px;
+  line-height: 1.8;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid rgba(13, 22, 52, 0.1);
+  color: #000;
+  margin-right: 0.5em;
+  border-radius: 4px;
+  font-family: "Ilisarniq";
+  font-size: 12px;
+}
+
+.noMatch {
+  text-align: center;
+  font-family: "Ilisarniq";
+  font-size: 12px;
+  color: #000;
+  line-height: 1.5;
+}
+
+div.pager span.active,
+div.pagerFil span.active {
+  background: #eef5ff;
+  color: #000;
+}
+
+.pick .dropdown-item {
+  font-size: 12px;
+  font-family: "Ilisarniq";
+  line-height: 1.5;
+}
+
+.pick .dropdown-item.active,
+.pick .dropdown-item:active,
+.selectFilter .dropdown-item.active,
+.selectFilter .dropdown-item:active {
+  background: #eef5ff;
+  color: #000;
+}
+
+.pick .btn-light,
+.pick .btn-light:hover,
+.selectFilter .btn-light,
+.selectFilter .btn-light:hover {
+  background-color: #fff;
+}
+
+.btn-light:not(:disabled):not(.disabled).active,
+.btn-light:not(:disabled):not(.disabled):active,
+.show>.btn-light.dropdown-toggle {
+  background-color: #fff !important;
+}
+
+.arrow {
+  position: relative;
+}
+
+.arrow::after {
+  content: "";
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: -19px;
+  top: 12px;
+  background-color: #34363a;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.widthSide {
+  width: 20%;
+}
+
+.widthContent {
+  width: 100%;
+}
+
+.myDate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+}
+
+.DateDiv {
+  display: none;
+}
+
+.toDate {
+  margin-left: 8px;
+}
+
+.fromDate label,
+.toDate label {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 13px;
+  color: #62646d;
+  opacity: 0.8;
+}
+
+.fromDate input,
+.toDate input {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #0a0a0a;
+  opacity: 0.8;
+  border: 1px solid rgb(13, 22, 52, 0.1);
+  padding: 5px;
+  border-radius: 5px;
+  outline: none !important;
+}
+
+.bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #0a0a0a;
+}
+
+@media screen and (max-width: 768px) {
+  .sideBar {
+    display: none;
+  }
+
+  .content {
+    width: 97%;
+    height: 97vh;
+  }
+
+  .resLogo {
+    display: block;
+    padding-top: 20px;
+    float: left;
+    width: 100%;
+    padding-left: 30px;
+  }
+
+  .resLogo h2 {
+    display: block;
+    padding-left: 46px;
+    font-family: "Ilisarniq";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    color: black;
+    margin: 0;
+    position: relative;
+  }
+
+  .resLogo h2::before {
+    content: "";
+    background: url("../images/logo.svg") no-repeat center;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+  }
+}
+
+.content-head {
+  padding: 10px;
+  width: 100%;
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  cursor: pointer;
+  position: relative;
+}
+
+.overall-div {
+  background: #eef5ff;
+  display: flex;
+  align-items: flex-start;
+}
+
+/* login style */
+
+.profileDrop {
+  position: absolute;
+  top: 46px;
+  right: 20px;
+  z-index: 10;
+  box-shadow: rgb(0 0 0 / 10%) 0px 0px 14px;
+  display: none;
+}
+
+.profileDrop ul {
+  list-style: none;
+  background: #fff;
+  margin: 0px;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.profileDrop ul li {
+  width: 100%;
+  padding: 4px 3px 4px 3px;
+  border-radius: 4px;
+}
+
+.profileDrop ul li:hover {
+  background-color: #eee;
+}
+
+.profileDrop ul li a {
+  text-decoration: none;
+  color: #141834;
+  font-family: "Ilisarniq";
+  font-size: 14px;
+  padding: 8px 10px 8px 10px;
+}
+
+.profileDrop ul li a i {
+  margin-right: 8px;
+}
+
+.profileDiv:hover+.profileDrop {
+  display: block;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+
+.logincontainer {
+  position: relative;
+  max-width: 460px;
+  width: 100%;
+  margin: 0 auto 0px;
+}
+
+.card {
+  position: relative;
+  background: #ffffff;
+  border-radius: 5px;
+  padding: 40px 0 40px 0;
+  box-sizing: border-box;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: 0.3s ease;
+}
+
+.card:first-child {
+  background: #fafafa;
+  height: 10px;
+  border-radius: 5px 5px 0 0;
+  margin: 0 10px;
+  padding: 0;
+}
+
+.card .title {
+  position: relative;
+  z-index: 1;
+  border-left: 5px solid #cf2228;
+  margin: 0 0 35px;
+  padding: 10px 0 10px 35px;
+  color: #cf2228;
+  font-size: 25px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Ilisarniq";
+}
+
+.card .input-container {
+  position: relative;
+  margin: 0 40px 40px;
+}
+
+.card .input-container input {
+  outline: none;
+  z-index: 1;
+  position: relative;
+  background: none;
+  width: 100%;
+  height: 40px;
+  border: 0;
+  color: #212121;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Ilisarniq";
+}
+
+.card .input-container input:focus~label {
+  color: #9d9d9d;
+  transform: translate(-12%, -50%) scale(0.75);
+}
+
+.card .input-container input:focus~.bar:before,
+.card .input-container input:focus~.bar:after {
+  width: 50%;
+}
+
+.card .input-container input:valid~label {
+  color: #9d9d9d;
+  transform: translate(-12%, -50%) scale(0.75);
+}
+
+.card .input-container label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #757575;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 48px;
+  transition: 0.2s ease;
+  font-family: "Ilisarniq";
+}
+
+.card .input-container .bar {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: #757575;
+  width: 100%;
+  height: 1px;
+}
+
+.card .input-container .bar:before,
+.card .input-container .bar:after {
+  content: "";
+  position: absolute;
+  background: #cf2228;
+  width: 0;
+  height: 2px;
+  transition: 0.2s ease;
+}
+
+.card .input-container .bar:before {
+  left: 50%;
+}
+
+.card .input-container .bar:after {
+  right: 50%;
+}
+
+.card .button-container {
+  margin: 0 60px;
+  text-align: center;
+}
+
+.card .button-container button {
+  outline: 0;
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+  background: 0;
+  width: 191px;
+  border: 2px solid #e3e3e3;
+  padding: 13px 0;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: 0.3s ease;
+}
+
+.card .button-container button span {
+  position: relative;
+  z-index: 1;
+  color: #ddd;
+  transition: 0.3s ease;
+  font-family: "Ilisarniq";
+}
+
+.card .button-container button:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  background: #cf2228;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  margin: -15px 0 0 -15px;
+  opacity: 0;
+  transition: 0.3s ease;
+}
+
+.card .button-container button:hover,
+.card .button-container button:active,
+.card .button-container button:focus {
+  border-color: #cf2228;
+}
+
+.card .button-container button:hover span,
+.card .button-container button:active span,
+.card .button-container button:focus span {
+  color: #cf2228;
+}
+
+.card .button-container button:active span,
+.card .button-container button:focus span {
+  color: #ffffff;
+}
+
+.card .button-container button:active:before,
+.card .button-container button:focus:before {
+  opacity: 1;
+  transform: scale(10);
+}
+
+.card .forgotpass {
+  margin: 26px 0 0;
+  color: #d3d3d3;
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.card .forgotpass a {
+  color: #ddd;
+  text-decoration: none;
+  transition: 0.3s ease;
+  font-family: "Ilisarniq";
+  font-size: 18px;
+}
+
+.card .forgotpass a:hover {
+  color: #bababa;
+}
+
+.card.alt {
+  position: absolute;
+  top: 40px;
+  right: -39px;
+  z-index: 10;
+  background: none;
+  border-radius: 100%;
+  box-shadow: none;
+  padding: 0;
+  transition: 0.3s ease;
+}
+
+.card.alt .toggle {
+  position: relative;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+@-webkit-keyframes buttonFadeInUp {
+  0% {
+    bottom: 30px;
+    opacity: 0;
+  }
+}
+
+@keyframes buttonFadeInUp {
+  0% {
+    bottom: 30px;
+    opacity: 0;
+  }
+}
+
+/* table */
+
+table {
+  margin-bottom: 20px;
+  border-collapse: collapse;
+  font-family: "Lato", Calibri, Arial, sans-serif;
+  border: none;
+}
+
+table th,
+table td {
+  font-family: "Ilisarniq";
+}
+
+table th {
+  padding: 7px 10px;
+  cursor: pointer;
+  transition: 0.3s;
+
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.001em;
+  color: #999b9c;
+}
+
+table td {
+  color: #141834;
+  padding: 0.7em 1em !important;
+  font-size: 12px;
+  line-height: 22px;
+  font-family: "Ilisarniq";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.0025em;
+  color: #151515;
+}
+
+table tr {
+  transition: background 0.3s, box-shadow 0.3s;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+table {
+  width: 100%;
+}
+
+table tr:hover {
+  background: #fafafa;
+}
+
+#pagination ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  justify-content: flex-end;
+}
+
+#pagination ul li {
+  height: 24px;
+  min-width: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #354052;
+  color: #ffffff;
+  margin: 2px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 20px;
+}
+
+#pagination ul li:hover {
+  background: #354052;
+}
+
+div#tableContainer {
+  padding: 20px 20px 0px 20px;
+}
+
+.logout {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+}
+
+.logout a {
+  color: #fff;
+  font-size: 13px;
+  font-family: "Ilisarniq";
+}
+
+.logout a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.dashLink li {
+  position: relative;
+}
+
+.dashLink .subMenu li a i.far {
+  margin-right: 10px;
+}
+
+.profile {
+  float: right;
+  cursor: pointer;
+  color: #000;
+  padding-right: 7px;
+  font-family: "Ilisarniq";
+  border: none;
+  background-color: #eef5ff;
+  outline: none !important;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.001em;
+
+  color: #000000;
+}
+
+.profile .fas {
+  padding-left: 10px;
+}
+
+.profileImage img {
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.profileDrop {
+  font-size: 0.875rem;
+  line-height: 22px;
+  color: #5c5776;
+  border: none;
+  box-shadow: 0 10px 30px 0 rgba(31, 45, 61, 0.1);
+  border-radius: 0.5rem;
+}
+
+.profileDrop {
+  display: block;
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.3s ease-in;
+}
+
+.profileDrop::before {
+  position: absolute;
+  top: -16px;
+  right: 20px;
+  display: inline-block;
+  content: "";
+  border: 8px solid transparent;
+  border-bottom-color: #fff;
+}
+
+.profihover {
+  display: flex;
+  align-items: center;
+}
+
+.profihover:hover .profileDrop {
+  transform: scaleY(1);
+  opacity: 1;
+  visibility: visible;
+}
+
+#pagination {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 4px;
+  padding: 1px 2px 4px 2px;
+  border-top: 1px solid #aeaeae;
+  border-bottom: 1px solid #ffffff;
+  background-color: #dadada;
+  background-image: -webkit-linear-gradient(top, #dbdbdb, #e2e2e2);
+  background-image: -moz-linear-gradient(top, #dbdbdb, #e2e2e2);
+  background-image: -ms-linear-gradient(top, #dbdbdb, #e2e2e2);
+  background-image: -o-linear-gradient(top, #dbdbdb, #e2e2e2);
+  background-image: linear-gradient(top, #dbdbdb, #e2e2e2);
+}
+
+#pagination a,
+#pagination i {
+  display: inline-block;
+  vertical-align: middle;
+  width: 22px;
+  color: #7d7d7d;
+  text-align: center;
+  font-size: 10px;
+  padding: 3px 0 2px 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+#pagination a {
+  margin: 0 2px 0 2px;
+  border-radius: 4px;
+  border: 1px solid #e3e3e3;
+  cursor: pointer;
+  box-shadow: inset 0 1px 0 0 #fff, 0 1px 2px #666;
+  text-shadow: 0 1px 1px #fff;
+  background-color: #e6e6e6;
+  background-image: -webkit-linear-gradient(top, #f3f3f3, #d7d7d7);
+  background-image: -moz-linear-gradient(top, #f3f3f3, #d7d7d7);
+  background-image: -ms-linear-gradient(top, #f3f3f3, #d7d7d7);
+  background-image: -o-linear-gradient(top, #f3f3f3, #d7d7d7);
+  background-image: linear-gradient(top, #f3f3f3, #d7d7d7);
+}
+
+#pagination i {
+  margin: 0 3px 0 3px;
+}
+
+#pagination a.current {
+  border: 1px solid #e9e9e9;
+  box-shadow: 0 1px 1px #999;
+  background-color: #dfdfdf;
+  background-image: -webkit-linear-gradient(top, #d0d0d0, #ebebeb);
+  background-image: -moz-linear-gradient(top, #d0d0d0, #ebebeb);
+  background-image: -ms-linear-gradient(top, #d0d0d0, #ebebeb);
+  background-image: -o-linear-gradient(top, #d0d0d0, #ebebeb);
+  background-image: linear-gradient(top, #d0d0d0, #ebebeb);
+}
+
+/* new */
+.hideData {
+  display: none !important;
+}
+
+.navFun {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.selectFilter {
+  display: flex;
+  justify-content: flex-start;
+  width: 50%;
+  align-items: center;
+}
+
+.selectFilter:not(.input-group)>.bootstrap-select.form-control:not([class*="col-"]) {
+  width: 40%;
+  display: none !important;
+}
+
+.rows_count {
+  line-height: 1.8;
+  text-align: center;
+  color: #000;
+  font-family: "Ilisarniq";
+  font-size: 14px;
+  margin-right: 25px;
+  margin-left: 14px;
+}
+
+.dropSelect {
+  outline: none !important;
+}
+
+.selectFilter.bootstrap-select .dropdown-toggle:focus,
+.bootstrap-select>select.mobile-device:focus+.dropdown-toggle {
+  outline: none !important;
+}
+
+.selectFilter .dropdown-item {
+  font-size: 12px;
+  font-family: "Ilisarniq";
+  line-height: 1.5;
+}
+
+#maxRows {
+  display: none;
+}
+.td-center{
+  text-align: center;
+}
+.dnbtn{
+  border: unset;
+  outline: unset;
+  border-radius: 5px;
+  padding: 5px;
+}
+.dnbtn:hover{
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+::-webkit-scrollbar {
+  height: 2px !important;
+  display: none;
+}
+::-webkit-scrollbar:hover {
+  height: 2px !important;
+}
+.td_url{
+  max-width: 300px;
+  overflow: scroll;
+}

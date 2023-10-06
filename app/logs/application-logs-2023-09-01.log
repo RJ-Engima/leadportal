@@ -1,0 +1,133 @@
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 1:02:35 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 1:02:44 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 1:02:44 PM 
+info: Join the fun Submit API hit reached || timestamp: 01-09-2023 1:08:55 PM 
+info: Payload validation check || timestamp: 01-09-2023 1:08:55 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 1:08:55 PM 
+info: JTF Data inserted to DB || timestamp: 01-09-2023 1:08:55 PM 
+info: Email sent successfully to Contacted Person || timestamp: 01-09-2023 1:08:58 PM 
+info: Email sent successfully to Ping || timestamp: 01-09-2023 1:08:58 PM 
+info: GFF Contact Submit API hit reached || timestamp: 01-09-2023 1:13:24 PM 
+info: Payload validation check || timestamp: 01-09-2023 1:13:24 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 1:13:24 PM 
+info: GFF Data inserted to DB || timestamp: 01-09-2023 1:13:24 PM 
+info: Email sent successfully to Ping || timestamp: 01-09-2023 1:13:26 PM 
+info: Email sent successfully to Contacted Person || timestamp: 01-09-2023 1:13:26 PM 
+info: Base URL :: localhost:1600 || timestamp: 01-09-2023 1:13:51 PM 
+info: login hit received || timestamp: 01-09-2023 1:13:56 PM 
+info: Get Contact hit Received || timestamp: 01-09-2023 1:13:56 PM 
+info: Data Getting Success from Contact || timestamp: 01-09-2023 1:13:57 PM 
+info: GFF data hit Received || timestamp: 01-09-2023 1:13:59 PM 
+info: Data Getting Success from GFF || timestamp: 01-09-2023 1:13:59 PM 
+info: GFF data hit Received || timestamp: 01-09-2023 1:14:6 PM 
+info: Data Getting Success from JFT || timestamp: 01-09-2023 1:14:6 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 1:15:56 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 1:15:57 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 1:15:57 PM 
+info: GFF Contact Submit API hit reached || timestamp: 01-09-2023 1:17:16 PM 
+info: Payload validation check || timestamp: 01-09-2023 1:17:16 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 1:17:16 PM 
+info: GFF Data inserted to DB || timestamp: 01-09-2023 1:17:16 PM 
+info: Email sent successfully to Ping || timestamp: 01-09-2023 1:17:17 PM 
+info: Email sent successfully to Contacted Person || timestamp: 01-09-2023 1:17:17 PM 
+info: Join the fun Submit API hit reached || timestamp: 01-09-2023 1:19:23 PM 
+info: Payload validation check || timestamp: 01-09-2023 1:19:23 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 1:19:23 PM 
+info: JTF Data inserted to DB || timestamp: 01-09-2023 1:19:23 PM 
+info: Email sent successfully to Contacted Person || timestamp: 01-09-2023 1:19:25 PM 
+info: Email sent successfully to Ping || timestamp: 01-09-2023 1:19:25 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 1:22:32 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 1:22:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 1:22:33 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 5:53:44 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 5:53:46 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 5:53:46 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 5:54:18 PM 
+info: Payload validation check || timestamp: 01-09-2023 5:54:18 PM 
+info: Payload validation Error || timestamp: 01-09-2023 5:54:18 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 5:55:1 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 5:55:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 5:55:2 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 5:55:4 PM 
+info: Payload validation check || timestamp: 01-09-2023 5:55:4 PM 
+info: Payload validation Error || timestamp: 01-09-2023 5:55:4 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 5:55:23 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 5:55:24 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 5:55:24 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 5:55:27 PM 
+info: Payload validation check || timestamp: 01-09-2023 5:55:27 PM 
+info: Payload validation Error || timestamp: 01-09-2023 5:55:27 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 5:59:43 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 5:59:44 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 5:59:44 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 5:59:51 PM 
+info: Payload validation check || timestamp: 01-09-2023 5:59:51 PM 
+info: Payload validation Error || timestamp: 01-09-2023 5:59:51 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:05:39 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:05:39 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:05:39 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 6:06:45 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 6:06:46 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 6:06:46 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 6:07:0 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 6:07:1 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 6:07:1 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:07:6 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:07:6 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:07:6 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:09:48 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:09:48 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:09:48 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:13:38 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:13:38 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:13:38 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:14:40 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:14:40 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:14:40 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:15:5 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:15:5 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:15:5 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:15:35 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:15:35 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:15:35 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 6:20:31 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 6:20:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 6:20:32 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:20:36 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:20:36 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:20:36 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:21:6 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:21:6 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:21:6 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:21:12 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:21:12 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:21:12 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 6:24:32 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 6:24:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 6:24:33 PM 
+warn: Server started at with Environment :: dev || timestamp: 01-09-2023 6:24:42 PM 
+info: Example app listening on port 1600! || timestamp: 01-09-2023 6:24:43 PM 
+warn: DEV-Database connection Successfull || timestamp: 01-09-2023 6:24:43 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:24:47 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:24:47 PM 
+info: Payload validation Error || timestamp: 01-09-2023 6:24:47 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:27:12 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:27:12 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 6:27:12 PM 
+info: Data inserted to DB || timestamp: 01-09-2023 6:27:12 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:27:39 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:27:39 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 6:27:39 PM 
+info: Data inserted to DB || timestamp: 01-09-2023 6:27:39 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:44:9 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:44:9 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 6:44:9 PM 
+info: Data inserted to DB || timestamp: 01-09-2023 6:44:9 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 6:44:40 PM 
+info: Payload validation check || timestamp: 01-09-2023 6:44:40 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 6:44:40 PM 
+info: Data inserted to DB || timestamp: 01-09-2023 6:44:40 PM 
+info: Livquik contact-us API hit reached || timestamp: 01-09-2023 7:00:13 PM 
+info: Payload validation check || timestamp: 01-09-2023 7:00:13 PM 
+info: Payload validation successfull || timestamp: 01-09-2023 7:00:13 PM 
+info: Data inserted to DB || timestamp: 01-09-2023 7:00:13 PM 

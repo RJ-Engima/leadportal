@@ -1,0 +1,92 @@
+<div class="container-fluid loginBack">
+  <a href="#" class="logoA"><img
+      src="./images/logoRed.svg"
+      class="loginLogo"
+      width="40px"
+      height="40px"
+    /></a>
+  <div class="container">
+    <div class="logBackImg">
+      <div class="row">
+        <div class="col">
+          <div class="loginform">
+            <div class="login-div">
+              <h2>Login</h2>
+              <form method="post" id="loginSubmit">
+                <div class="loginInDiv frmDiv">
+                  <label class="frm-lb emailLb">Institution Name</label>
+                  <input type="text" class="user myIn" id="email" />
+                  <span class="errMsg">The entered 6 digits number is invalid.</span>
+                </div>
+                <div class="loginInDiv frmDiv">
+                  <label class="frm-lb">Password</label>
+                  <input type="password" class="pass myIn" id="password" />
+                  <span class="errMsg">The entered 6 digits number is invalid.</span>
+                </div>
+                <div class="forgot"><a href="#">Forgot password?</a></div>
+                <button
+                  type="submit"
+                  class="logSub"
+                  id="loginsubmitBtn"
+                >LOGIN</button>
+              </form>
+            </div>
+          </div>
+          <!--forgot password-->
+          <div class="toastCls">
+            <div id="messages" class="hide">
+              <div id="messages_content"></div>
+            </div>
+          </div>
+          <div class="fgtPassword" id="fgetpasssec">
+            <div class="fgtDiv">
+              <h2>Forgot Password?</h2>
+              <form id="newforgot">
+                <div class="fgtInDiv">
+                  <label>Enter username or Email Id</label>
+                  <input id="forgotemail" type="text" />
+                </div>
+                <button class="OtpBtn" type="submit" id="getotp">Get OTP</button>
+              </form>
+            </div>
+          </div>
+          <div class="OtpSubcls" id="otpsec">
+            <div class="fgtDiv">
+              <h2>Enter OTP</h2>
+              <form id="getotpForm">
+                <div class="fgtInDiv">
+                  <label>Enter OTP</label>
+                  <input id="otpvalidate" type="text" maxlength="6" />
+                </div>
+                <button class="OtpBtn" type="submit" id="submitOtp">Submit OTP</button>
+              </form>
+            </div>
+          </div>
+
+          <div class="new-pass" id="setnewPass">
+            <div class="fgtDiv">
+              <h2>Change Password?</h2>
+              <form class="changePass" id="submitResetpassword">
+                <div class="fgtInDiv">
+                  <label>New Password</label>
+                  <input type="password" class="newchangepass" />
+                </div>
+                <div class="fgtInDiv con-pass">
+                  <label>Confirm Password</label>
+                  <input type="password" class="newconfirmpass" />
+                </div>
+                <button class="submit">Submit</button>
+              </form>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="toastCls">
+    <div id="logMsg" class="hide">
+    </div>
+  </div>
+</div>
+<script src="/js/login.js"></script>

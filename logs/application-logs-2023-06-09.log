@@ -1,0 +1,33 @@
+warn: Server started at with Environment :: dev || timestamp: 09-06-2023 6:37:45 PM 
+info: Example app listening on port 1600! || timestamp: 09-06-2023 6:37:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-06-2023 6:37:51 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 09-06-2023 8:17:44 PM 
+info: Payload validation check || timestamp: 09-06-2023 8:17:44 PM 
+info: Payload validation successfull || timestamp: 09-06-2023 8:17:44 PM 
+info: Paylater Data inserted to DB || timestamp: 09-06-2023 8:17:44 PM 
+info: Email sent successfully to Ping || timestamp: 09-06-2023 8:17:45 PM 
+warn: Server started at with Environment :: dev || timestamp: 09-06-2023 8:28:34 PM 
+info: Example app listening on port 1600! || timestamp: 09-06-2023 8:28:42 PM 
+warn: DEV-Database connection Successfull || timestamp: 09-06-2023 8:28:42 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 09-06-2023 9:06:15 PM 
+info: Payload validation check || timestamp: 09-06-2023 9:06:15 PM 
+error: Payload validation Error: Enter valid email || timestamp: 09-06-2023 9:06:15 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 09-06-2023 9:06:43 PM 
+info: Payload validation check || timestamp: 09-06-2023 9:06:43 PM 
+info: Payload validation successfull || timestamp: 09-06-2023 9:06:43 PM 
+info: Paylater Data inserted to DB || timestamp: 09-06-2023 9:06:43 PM 
+info: Email sent successfully to Ping || timestamp: 09-06-2023 9:06:44 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 09-06-2023 9:30:9 PM 
+info: Payload validation check || timestamp: 09-06-2023 9:30:9 PM 
+error: Payload validation Error: Enter valid email || timestamp: 09-06-2023 9:30:9 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 09-06-2023 9:30:35 PM 
+info: Payload validation check || timestamp: 09-06-2023 9:30:35 PM 
+error: Payload validation Error: Enter valid email || timestamp: 09-06-2023 9:30:35 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 09-06-2023 9:31:5 PM 
+info: Payload validation check || timestamp: 09-06-2023 9:31:5 PM 
+error: Payload validation Error: Enter valid email || timestamp: 09-06-2023 9:31:5 PM 
+info: Whitepaper request Submit API hit reached || timestamp: 09-06-2023 9:36:57 PM 
+info: Payload validation check || timestamp: 09-06-2023 9:36:57 PM 
+info: Payload validation successfull || timestamp: 09-06-2023 9:36:57 PM 
+info: Paylater Data inserted to DB || timestamp: 09-06-2023 9:36:57 PM 
+info: Email sent successfully to Ping || timestamp: 09-06-2023 9:36:58 PM 

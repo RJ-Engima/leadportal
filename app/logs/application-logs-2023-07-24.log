@@ -1,0 +1,39 @@
+info: Base URL :: localhost:1600 || timestamp: 24-07-2023 10:05:12 AM 
+info: login hit received || timestamp: 24-07-2023 10:05:14 AM 
+info: Get Contact hit Received || timestamp: 24-07-2023 10:05:15 AM 
+info: Data Getting Success from Contact || timestamp: 24-07-2023 10:05:15 AM 
+info: MFI data hit Received || timestamp: 24-07-2023 10:05:17 AM 
+info: Data Getting Success from MFI || timestamp: 24-07-2023 10:05:17 AM 
+info: GFF data hit Received || timestamp: 24-07-2023 10:05:19 AM 
+info: Data Getting Success from GFF || timestamp: 24-07-2023 10:05:19 AM 
+info: Get Contact hit Received || timestamp: 24-07-2023 10:05:25 AM 
+info: Data Getting Success from Contact || timestamp: 24-07-2023 10:05:25 AM 
+info: Get Footer-Contact data hit Received || timestamp: 24-07-2023 10:05:26 AM 
+info: Data Getting Success from Contact || timestamp: 24-07-2023 10:05:26 AM 
+info: MFI data hit Received || timestamp: 24-07-2023 10:05:29 AM 
+info: Data Getting Success from MFI || timestamp: 24-07-2023 10:05:29 AM 
+info: GFF data hit Received || timestamp: 24-07-2023 10:05:33 AM 
+info: Data Getting Success from GFF || timestamp: 24-07-2023 10:05:33 AM 
+warn: Server started at with Environment :: dev || timestamp: 24-07-2023 11:30:51 AM 
+info: Example app listening on port 1600! || timestamp: 24-07-2023 11:30:52 AM 
+warn: DEV-Database connection Successfull || timestamp: 24-07-2023 11:30:52 AM 
+info: MFI Contact Submit API hit reached || timestamp: 24-07-2023 11:31:21 AM 
+info: Payload validation check || timestamp: 24-07-2023 11:31:21 AM 
+error: Payload validation Error: "url" is not allowed || timestamp: 24-07-2023 11:31:21 AM 
+warn: Server started at with Environment :: dev || timestamp: 24-07-2023 11:33:38 AM 
+info: Example app listening on port 1600! || timestamp: 24-07-2023 11:33:39 AM 
+warn: DEV-Database connection Successfull || timestamp: 24-07-2023 11:33:39 AM 
+info: MFI Contact Submit API hit reached || timestamp: 24-07-2023 11:33:41 AM 
+info: Payload validation check || timestamp: 24-07-2023 11:33:41 AM 
+info: Payload validation successfull || timestamp: 24-07-2023 11:33:41 AM 
+info: Paylater Data inserted to DB || timestamp: 24-07-2023 11:33:41 AM 
+info: Email sent successfully to Ping || timestamp: 24-07-2023 11:33:43 AM 
+info: Email sent successfully to Contacted person || timestamp: 24-07-2023 11:33:44 AM 
+info: Base URL :: localhost:1600 || timestamp: 24-07-2023 11:34:3 AM 
+info: login hit received || timestamp: 24-07-2023 11:34:5 AM 
+info: Get Contact hit Received || timestamp: 24-07-2023 11:34:5 AM 
+info: Data Getting Success from Contact || timestamp: 24-07-2023 11:34:5 AM 
+info: MFI data hit Received || timestamp: 24-07-2023 11:34:8 AM 
+info: Data Getting Success from MFI || timestamp: 24-07-2023 11:34:8 AM 
+info: MFI data hit Received || timestamp: 24-07-2023 11:35:8 AM 
+info: Data Getting Success from MFI || timestamp: 24-07-2023 11:35:8 AM 

@@ -1,0 +1,36 @@
+warn: Server started at with Environment :: dev || timestamp: 26-07-2023 6:32:42 PM 
+info: Example app listening on port 1600! || timestamp: 26-07-2023 6:32:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-07-2023 6:32:49 PM 
+info: Base URL :: localhost:1600 || timestamp: 26-07-2023 6:33:29 PM 
+info: login hit received || timestamp: 26-07-2023 6:33:32 PM 
+info: Get Contact hit Received || timestamp: 26-07-2023 6:33:32 PM 
+info: Data Getting Success from Contact || timestamp: 26-07-2023 6:33:32 PM 
+info: Submit API hit reached || timestamp: 26-07-2023 6:33:48 PM 
+info: Payload validation check || timestamp: 26-07-2023 6:33:48 PM 
+info: Payload validation successfull || timestamp: 26-07-2023 6:33:48 PM 
+info: data inserted to DB || timestamp: 26-07-2023 6:33:48 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-07-2023 6:33:50 PM 
+info: Email sent successfully to Ping || timestamp: 26-07-2023 6:33:50 PM 
+info: Get Contact hit Received || timestamp: 26-07-2023 6:34:37 PM 
+info: Data Getting Success from Contact || timestamp: 26-07-2023 6:34:37 PM 
+info: Submit API hit reached || timestamp: 26-07-2023 6:35:16 PM 
+info: Payload validation check || timestamp: 26-07-2023 6:35:16 PM 
+info: Payload validation successfull || timestamp: 26-07-2023 6:35:16 PM 
+info: data inserted to DB || timestamp: 26-07-2023 6:35:16 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-07-2023 6:35:17 PM 
+info: Email sent successfully to Ping || timestamp: 26-07-2023 6:35:18 PM 
+info: Get Contact hit Received || timestamp: 26-07-2023 6:35:23 PM 
+info: Data Getting Success from Contact || timestamp: 26-07-2023 6:35:23 PM 
+warn: Server started at with Environment :: dev || timestamp: 26-07-2023 6:46:16 PM 
+info: Example app listening on port 1600! || timestamp: 26-07-2023 6:46:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 26-07-2023 6:46:17 PM 
+info: Submit API hit reached || timestamp: 26-07-2023 6:46:22 PM 
+info: Payload validation check || timestamp: 26-07-2023 6:46:22 PM 
+info: Payload validation successfull || timestamp: 26-07-2023 6:46:22 PM 
+info: data inserted to DB || timestamp: 26-07-2023 6:46:22 PM 
+info: Email sent successfully to Ping || timestamp: 26-07-2023 6:46:23 PM 
+info: Email sent successfully to Contacted Person || timestamp: 26-07-2023 6:46:23 PM 
+info: Base URL :: localhost:1600 || timestamp: 26-07-2023 6:48:17 PM 
+info: login hit received || timestamp: 26-07-2023 6:48:19 PM 
+info: Get Contact hit Received || timestamp: 26-07-2023 6:48:19 PM 
+info: Data Getting Success from Contact || timestamp: 26-07-2023 6:48:19 PM 
